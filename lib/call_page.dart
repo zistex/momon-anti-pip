@@ -43,8 +43,8 @@ class _CallPageState extends State<CallPage> {
       },
       child: Scaffold(
         body: ZegoUIKitPrebuiltCall(
-          appID: 708812434,
-          appSign: "1898b0c9b245ef493e1a9fa9d536d2b974022617c23bc7ab0e882023ada10555",
+          appID: 708xxx,
+          appSign: "1898xxx",
           userID: widget.userID,
           userName: widget.userName,
           callID: widget.callID,
